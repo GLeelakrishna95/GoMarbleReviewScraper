@@ -38,13 +38,13 @@ GoMarble Review Scraper is an API server designed to extract reviews dynamically
 
 ### **Prerequisites**
 1. Python 3.7+ installed on your system.
-2. Selenium WebDriver (e.g., ChromeDriver) compatible with your Chrome version. [Download here](https://sites.google.com/chromium.org/driver).
+2. Selenium WebDriver (e.g., ChromeDriver) compatible with your Chrome version. (https://sites.google.com/chromium.org/driver).
 
 ### **Steps**
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/GoMarbleReviewScraper.git
+   git clone https://github.com/leelakrishna86/GoMarbleReviewScraper.git
    cd GoMarbleReviewScraper
 
 
